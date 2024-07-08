@@ -267,12 +267,21 @@
 
 ######### PROYECTO ###############
 
-texto = input("Ingresa un texto, no importa la cantidad de caracteres: ")
-letras = input("Ingresa 3 letras de tu eleccion: ")
-l1 = list(letras)
+# texto = input("Ingresa un texto, no importa la cantidad de caracteres: ")
+# letras = input("Ingresa 3 letras de tu eleccion: ")
+# l1 = list(letras)
+# total_texto = texto.split()
 
-ejemplo = texto.count()
+# print("El conteo de letras de la primera que seleccionaste '", l1[0].strip(), "' es de ", texto.count(l1[0]))
+# print("El conteo de letras de la primera que seleccionaste '", l1[1].strip(), "' es de ", texto.count(l1[1]))
+# print("El conteo de letras de la primera que seleccionaste '", l1[2].strip(), "' es de ", texto.count(l1[2]))
+# print("El texto ingresado contiene un total de", len(total_texto), "palabras")
+# print("El texto ingresado el primer caracter es", texto[0], "y el ultimo caracter es", texto[-1])
+# total_texto.reverse()
+# texto_invertido = ' '.join(total_texto)
+# print("El texto ingresado al reverso quedaria de la siguiente manera: ", texto_invertido)
 
+# buscar_palabra = 'python' in texto
+# dic = {True:"si", False:"no"}
 
-print(ejemplo)
-print(l1)
+# print("La palabra 'Python'", dic[buscar_palabra], "se encuentra en el texto ingresado")
