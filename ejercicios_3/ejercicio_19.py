@@ -1,5 +1,7 @@
 import random
 
-aleatorio = random.seed(10000)
+nombres = ["Carlos", "Julia", "Nicole", "Laura", "Mailen"]
 
-print(aleatorio)
+sorteo = random.choice(nombres)
+
+print(sorteo)
