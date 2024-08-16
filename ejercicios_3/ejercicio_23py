@@ -1,0 +1,5 @@
+import random
+
+azar = random.uniform(1, 10)
+
+print(azar)
