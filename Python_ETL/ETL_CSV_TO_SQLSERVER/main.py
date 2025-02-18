@@ -8,7 +8,7 @@ db_user = os.getenv('DB_USER_STG')
 db_pass = os.getenv('DB_PASS_STG')
 db = os.getenv('DB_DATABASE_STG')
 
-ruta_csv = 'C:/Users/e-mario_jimenez/Downloads/SQ01 INVENTORY.csv'
+ruta_csv = 'C:/Users/Mario J/Downloads/SQ01 INVENTORY.csv'
 
 db_table = os.getenv('DB_TABLE_STG')
 
