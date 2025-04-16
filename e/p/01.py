@@ -1,0 +1,1 @@
+print("Tu nombre de la marca sera: '" + input("Cual es tu super heroe favorito?"), input("Tu numero favorito?") + "'")
